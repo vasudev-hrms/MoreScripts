@@ -1,0 +1,2 @@
+ var location = request.parameters.location;
+return location;
